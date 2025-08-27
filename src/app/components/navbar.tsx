@@ -2,10 +2,10 @@ import React from "react";
 import Link from "next/link";
 
 const navoption = [
-  { label: "Accueil", href: "/" },
-  { label: "Article", href: "/" },
-  { label: "A propos de nous", href: "/" },
-  { label: "Contact", href: "/" },
+  { label: "Accueil", href: "#" },
+  { label: "Article", href: "#" },
+  { label: "A propos de nous", href: "#" },
+  { label: "Contact", href: "#" },
   // Add more links as needed
 ];
 
