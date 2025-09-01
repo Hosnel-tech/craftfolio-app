@@ -44,11 +44,11 @@ export default function Board() {
                 </div>
               </div>
               <div className="flex gap-3 pl-1 mt-4">
-                <button className=" bg-[#1D4ED8] text-white text-[14px] font-semibold px-3 py-1 rounded-md ">
+                <button className=" bg-[#1D4ED8] text-white text-[14px] font-semibold px-4 py-2 rounded-md ">
                   <FaRegEye className="inline mr-1" />
                   <span>Voir plus</span>
                 </button>
-                <button className="px-3 py-1 rounded-md border-1 border-gray-400 ">
+                <button className="px-3 py-1 rounded-md border-1 border-gray-500 ">
                   <FiGithub className="inline " />
                 </button>
                 <button className="px-3 py-1 rounded-md bg-[#10B981] text-white">

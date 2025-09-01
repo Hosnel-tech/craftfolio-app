@@ -15,7 +15,7 @@ const SearchBar: React.FC = () => {
   return (
     <form
       onSubmit={handleSearch}
-      className="flex items-center w-full max-w-md mx-auto my-4 border border-gray-300 rounded-full pl-3"
+      className="flex items-center w-full  mx-auto my-4 border border-gray-300 rounded-full pl-3"
     >
       <input
         type="text"
